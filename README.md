@@ -7,6 +7,12 @@ molssi_devops
 
 A sample repository for the MolSSI devops workshop
 
+This repository is currently under development. To do a developmental install, download this repository and type
+
+`pip install -e .`
+
+in the repository directory.
+
 ### Copyright
 
 Copyright (c) 2019, Sam
