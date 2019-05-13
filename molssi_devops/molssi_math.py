@@ -28,6 +28,7 @@ def canvas(with_attribution=True):
         quote += "\n\t- Adapted from Henry David Thoreau"
     return quote
 
+
 def mean(num_list):
     """
     Calculate the mean/average of a list of numbers.
@@ -48,7 +49,7 @@ def mean(num_list):
     3.0
     """
 
-    mean_list = sum(num_list)/len(num_list)
+    mean_list = sum(num_list) / len(num_list)
     return mean_list
 
 
